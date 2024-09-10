@@ -1,0 +1,66 @@
+    1  man ls
+    2  help is
+    3  help ls
+    4  help ls
+    5  man-k ls
+    6  man-ls
+    7  man ls 
+    8  cd
+    9  help
+   10  man ls
+   11  ls
+   12  ls
+   13  ls
+   14  ls
+   15  cd lesson/
+   16  cd
+   17  pwd
+   18  mkdir Test1
+   19  ls
+   20  
+   21  mkdir Test2
+   22  ls
+   23  touch file1.txt
+   24  ls
+   25  clear
+   26  git config --global user.name  "Dasha Nezheiko"
+   27  git config --global user.email dashanegeyko@gmail.com
+   28  git clone 
+   29  ls
+   30  cd lesson
+   31  git config --global user.name "Dasha Nezheiko"
+   32  git config --global user.email dashanegeyko@gmail.com
+   33  git clone https://github.com/DashaNezheiko/HW_10.git
+   34  cd HW_10
+   35  touch text_ignore.txt
+   36  vim .gitignore.txt
+   37  git status
+   38  git add
+   39  git add .
+   40  git add .gitignore.txt
+   41  git add text_ignore.txt
+   42  git status
+   43  git commit -m ".gitignore.txt and text_ignore.txt added"
+   44  touch main_test.txt
+   45  git status
+   46  git add main_test.txt
+   47  git commit -m "main_test.txt added"
+   48  git checkout -b develop
+   49  touch develop_test.txt
+   50  git status
+   51  git add develop_test.txt
+   52  git commit -m "develop_test.txt added"
+   53  git status
+   54  nano develop_test.txt
+   55  git status
+   56  git add develop_test.txt
+   57  commit -m "Added changes develop_test.txt"
+   58  git checkout main
+   59  git commit -m "Added changes at develop_test.txt"
+   60  git checkout main
+   61  git branch
+   62  git merge develop
+   63  git status
+   64  git log
+   65  git status
+   66  history > command_list.csv

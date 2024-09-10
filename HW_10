@@ -1,0 +1,29 @@
+[33mcommit f7cea3fe01772552a141955d9a07736a0d3f9c8e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Dasha Nezheiko <dashanegeyko@gmail.com>
+Date:   Tue Sep 10 18:12:21 2024 +0300
+
+    Added changes at develop_test.txt
+
+[33mcommit dcddd8493b7727c446d49ea3c6852e7d2a2ddacc[m
+Author: Dasha Nezheiko <dashanegeyko@gmail.com>
+Date:   Tue Sep 10 18:02:50 2024 +0300
+
+    develop_test.txt added
+
+[33mcommit 6601b28dadee21aebb5058f71f8486c858d17828[m
+Author: Dasha Nezheiko <dashanegeyko@gmail.com>
+Date:   Tue Sep 10 17:54:53 2024 +0300
+
+    main_test.txt added
+
+[33mcommit c506af86621515df3ad6d290321f3f345c412539[m
+Author: Dasha Nezheiko <dashanegeyko@gmail.com>
+Date:   Tue Sep 10 17:50:39 2024 +0300
+
+    .gitignore.txt and text_ignore.txt added
+
+[33mcommit f8187562ce4a625dec03ad88f7ea2097732f9cfb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DashaNezheiko <156829066+DashaNezheiko@users.noreply.github.com>
+Date:   Tue Sep 10 17:15:12 2024 +0300
+
+    Initial commit
